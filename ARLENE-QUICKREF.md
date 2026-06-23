@@ -90,3 +90,26 @@ cp commands/*.md ~/.claude/commands/
 
 *ARLENE is not your assistant. She's your chief of staff.*
 *Her job is to help you finish things, not just start them.*
+
+---
+
+## EXPANDED SKILLSET (v1.1 — added 2026-06-23)
+
+| Command | Purpose |
+|---|---|
+| `/session-open` | Pull memory + boot ARLENE — run this FIRST every session |
+| `/kosh-post [tribe]` | Full MARVIS chain for one OSH26 homage post |
+| `/cta-status` | CTA pipeline dashboard + blast readiness |
+| `/emma-render [script]` | HeyGen av4 → MP4, end to end |
+| `/ebay-list [item]` | Dry-run → verify → publish, one item at a time |
+| `/project-sweep` | Weekly energy audit, all 14 projects |
+| `/pdf-form [name]` | New fillable PDF using proven ReportLab patterns |
+| `/garmin-chapter [N]` | GFC 500 course chapter with Arrow III anchor |
+| `/shopify-report` | Live sales → tribe map → MARVIS content seeds |
+| `/modal-deploy [tool]` | Modal endpoint deploy with all Windows fixes baked in |
+| `/usaf-badge [base]` | Heritage badge via YAML pipeline + image gen |
+| `/poster-instrument-extract` | Parse 2,165 PPJ XMLs → instrument-database.json |
+| `/repo-sync` | All-repo pull/push (folds into /MR and /MCPU) |
+| `/comms-aviation [who]` | Aviation-voice email/message: Direct / Warm / One-liner |
+
+**Total ARLENE commands: 28** (14 original + 14 new)
