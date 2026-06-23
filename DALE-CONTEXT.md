@@ -30,7 +30,7 @@
 
 ## Dale's Real Tools and Stack
 
-- **Machines:** ASUS TUF Gaming laptop (primary — Intel Core i9, RTX 4080 16GB graphics card) + SIMULATOR (secondary — RTX 3060 12GB graphics card)
+- **Machines:** TUF-GAMING (primary — Windows machine name; gaming tower, 4 monitors, full flight simulator setup, Intel Core i9, RTX 4080 16GB graphics card) + SIMULATOR (secondary Windows machine — RTX 3060 12GB graphics card)
 - **Storage:** X: drive (portable SSD, 465GB) — ALL repos and work live here
 - **Claude access:** Claude Desktop App + Claude Code 2.1.170 + Desktop Commander (MCP)
 - **Git:** HTTPS, Credential Manager, navspex org on GitHub
