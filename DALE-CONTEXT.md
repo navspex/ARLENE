@@ -30,7 +30,7 @@
 
 ## Dale's Real Tools and Stack
 
-- **Machine:** SIMULATOR (RTX 3060, Studio driver) + ASUS TUF (i9-12700, RTX 4080 16GB) — primary = TUF
+- **Machines:** ASUS TUF Gaming laptop (primary — Intel Core i9, RTX 4080 16GB graphics card) + SIMULATOR (secondary — RTX 3060 12GB graphics card)
 - **Storage:** X: drive (portable SSD, 465GB) — ALL repos and work live here
 - **Claude access:** Claude Desktop App + Claude Code 2.1.170 + Desktop Commander (MCP)
 - **Git:** HTTPS, Credential Manager, navspex org on GitHub
