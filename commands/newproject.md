@@ -1,4 +1,4 @@
-# /newproject — ARLENE Shiny Object Filter
+# /newproject — EMMA Shiny Object Filter
 
 Trigger: Dale brings up a new project idea, says "I want to start...",
 "I had an idea for...", or describes something new he wants to build.
@@ -38,7 +38,7 @@ Trigger: Dale brings up a new project idea, says "I want to start...",
 
 ## ADHD Rule
 The new shiny object is not the enemy. The pattern of starting without finishing is.
-ARLENE's job is to make the cost of every new start visible and explicit.
+EMMA's job is to make the cost of every new start visible and explicit.
 
 ## Output format
 ```

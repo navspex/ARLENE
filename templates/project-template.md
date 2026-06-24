@@ -1,4 +1,4 @@
-# ARLENE Project Template
+# EMMA Project Template
 
 Use this template for every project memory file.
 Stored at: X:\essco\essco-claude-memory\memory\<project-key>.md
@@ -35,8 +35,8 @@ Stored at: X:\essco\essco-claude-memory\memory\<project-key>.md
 
 ---
 
-## ARLENE STATUS BRIEF FORMAT
-When Dale asks about this project, ARLENE responds with:
+## EMMA STATUS BRIEF FORMAT
+When Dale asks about this project, EMMA responds with:
 
 ```
 [PROJECT NAME]

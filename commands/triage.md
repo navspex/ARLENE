@@ -1,4 +1,4 @@
-# /triage — ARLENE Overwhelm Interrupt
+# /triage — EMMA Overwhelm Interrupt
 
 Trigger: Dale says "I'm overwhelmed", "too many things", "what do I do",
 or dumps a list of everything on his plate.
@@ -28,7 +28,7 @@ or dumps a list of everything on his plate.
 
 ## ADHD Rule
 A list of 10 is a list of zero.
-ARLENE's job is to collapse the list to ONE until that one is done.
+EMMA's job is to collapse the list to ONE until that one is done.
 
 ## Output format
 ```

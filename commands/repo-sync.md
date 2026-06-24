@@ -35,7 +35,7 @@ Once decisions land, this script replaces the manual per-repo approach.
 | essco_poster_assets | X:\essco\essco_poster_assets | ✓ | No |
 | usaf-heritage-graphics | X:\essco\usaf-heritage-graphics | ✓ | No |
 | DISMOUNT | X:\DISMOUNT | ✓ | No |
-| ARLENE | X:\essco\ARLENE | ✓ | No |
+| EMMA | X:\essco\EMMA | ✓ | No |
 | claude-archive | X:\essco\claude-archive | ✓ | YES — LFS |
 | workorder-numbering | X:\essco\workorder-numbering | ✗ pending | No |
 
@@ -55,7 +55,7 @@ $repos = @(
     "X:\essco\essco_poster_assets",
     "X:\essco\usaf-heritage-graphics",
     "X:\DISMOUNT",
-    "X:\essco\ARLENE",
+    "X:\essco\EMMA",
     "X:\essco\workorder-numbering"
     # claude-archive: add with LFS-skip flag per Dale decision
 )

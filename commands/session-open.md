@@ -1,4 +1,4 @@
-# /session-open — Automated Memory Pull + ARLENE Boot
+# /session-open — Automated Memory Pull + EMMA Boot
 
 Trigger: Start of ANY working session. Run this FIRST, before anything else.
 This command exists because skipping /MR at session open is the #1 documented
@@ -24,7 +24,7 @@ failure mode across all ESSCO sessions — logged 4 times with proven consequenc
    - CLAUDE-ACTIONABLE NOW (numbered, no Dale dependency)
    - BLOCKED ON DALE (numbered)
 
-5. Run ARLENE morning boot:
+5. Run EMMA morning boot:
    - Today's date and day
    - Top 3 MITs from the project state
    - ONE task to start right now
@@ -35,7 +35,7 @@ failure mode across all ESSCO sessions — logged 4 times with proven consequenc
 
 ## Output format (total: under 15 lines)
 ```
-[ARLENE: Ready] — Tuesday June 23, 2026
+[EMMA: Ready] — Tuesday June 23, 2026
 
 Memory: pulled ✓ | Project: [key]
 

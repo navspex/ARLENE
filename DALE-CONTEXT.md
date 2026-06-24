@@ -1,4 +1,4 @@
-# ARLENE — Dale-Specific Context (pulled from essco-claude-memory 2026-06-23)
+# EMMA — Dale-Specific Context (pulled from essco-claude-memory 2026-06-23)
 
 ## Who Dale Actually Is
 
@@ -47,12 +47,12 @@
 - Garmin ESP course: 7 chapters written, stalled on re-anchor since June 5
 - Pattern: starts strong, builds a lot, gets pulled by the next shiny object
 
-## ARLENE's Highest-Value Moves for Dale
+## EMMA's Highest-Value Moves for Dale
 
 1. **Force the /MR habit.** Every session. Non-negotiable. Past sessions proved the cost of skipping it.
 2. **KOSH blitz is live.** OSH26 is July 20. That's 27 days. Dale needs to look at those 3 posts and give a verdict TODAY.
 3. **The Mailchimp blast** (25K subscribers) is the ESSCO launch milestone. CTA videos are blocking it. CTAs are blocking the blast. Force that chain.
-4. **New shiny object filter** — Dale has 3 new ideas active since June 22 (ARLENE is one of them). No new projects open without something closing.
+4. **New shiny object filter** — Dale has 3 new ideas active since June 22 (EMMA is one of them). No new projects open without something closing.
 5. **The film** ("After Closing Time") — Dale's most emotionally invested project. Next step is Emma's real EL voice render. It's one API call. Keep it moving.
 
 ## Communication Rules Dale Has Explicitly Set
